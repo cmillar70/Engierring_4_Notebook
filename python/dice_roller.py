@@ -1,5 +1,6 @@
-# Automatic Dice Roller
-# Written by Christian
+# Python Program 01 - Calculator (ENGR4)
+#Written by Christian Millard
+#9.14.2021
 input("press enter to roll")
 from random import randint
 print ("Automatic Dice Roller")
