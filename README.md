@@ -3,11 +3,11 @@
 This is my repository for keeping track of all of my assignments for Engineering 4.
 
 ## Table_of_Contents
-* [Hello World](PythonHelloWorld)
-* [Dice Roller](#PythonDiceRoller)
-* [Basic Calculator](#Python_Calcultor)
-* [Quadratic Calculator](#Python_Quadratic)
-* [Strings and Loops](#Python_Str_and_Lps)
+* [Hello World](#Hello World)
+* [Dice Roller](#Dice Roller)
+* [Basic Calculator](#Basic Calcultor)
+* [Quadratic Calculator](#Quadratic Caculator)
+* [Strings and Loops](#Strings and Loops)
 
 ---
 
