@@ -23,6 +23,10 @@ For this assignment, I used basic python to print "Hello, World" 10 times.
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/hello_world_out.png?raw=true" alt="hello_world_out.png"/>
 
+### Reflection
+
+This was a nice refresher for basic python.
+
 ## Dice_Roller
 
 ### Assignment Description
@@ -34,6 +38,10 @@ For this assignment, I used python to automatically print dice rolls with a rand
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/dice_roll_in2.png?raw=true" alt="dice_roll_in2.png"/>
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/dice_roll_out.png?raw=true" alt="dice_roll_out.png"/>
+
+### Reflection
+
+The "roll again?" was pretty difficult to figure out.
 
 ## Basic_Calculator
 
@@ -47,6 +55,10 @@ For this assignment, I created a calculator that when given two numbers, will sh
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/basic_calc_out.png?raw=true" alt="basic_calc_out.png"/>
 
+### Reflection
+
+I couldn't out by myself how to properly define the "domath" function.
+
 ## Quadratic_Calculator
 
 ### Assignment Description
@@ -59,6 +71,10 @@ For this assignment, I ceated a more advanced calclator that uses the discrimina
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/quad_calc_out.png?raw=true" alt="quad_calc_out.png"/>
 
+### Reflection
+
+The most difficult part was trying to make it only run the commands if it needed to because otherwise it would have an error.
+
 ## Strings_and_Loops
 
 ### Assignment Description
@@ -70,3 +86,7 @@ For this assignment, I used for loops to break a sentence into words and then br
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/str_and_lps_in2.png?raw=true" alt="str_and_lps_in2.png"/>
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/str_and_lps_out.png?raw=true" alt="str_and_lps_out.png"/>
+
+### Reflection
+
+This was relatively easy once I igured out how strings worked.
