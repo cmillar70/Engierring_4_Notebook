@@ -1,4 +1,4 @@
-# Python Program 01 - Calculator (ENGR4)
+# Python Program 04 - Quadratic Calculator (ENGR4)
 #Written by Christian Millard
 #9.20.2021
 
