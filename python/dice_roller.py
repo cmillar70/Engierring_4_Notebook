@@ -1,4 +1,4 @@
-# Python Program 00 - Dice Roller (ENGR4)
+# Python Program 02 - Dice Roller (ENGR4)
 #Written by Christian Millard
 #9.14.2021
 input("press enter to roll")
