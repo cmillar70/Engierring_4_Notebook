@@ -1,5 +1,8 @@
-from math import sqrt
+# Python Program 01 - Calculator (ENGR4)
+#Written by Christian Millard
+#9.21.2021
 
+from math import sqrt
 
 print("Quadratic Solver")
 print("enter the coefficients for ax^2 + bx + c = 0")
