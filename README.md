@@ -31,7 +31,7 @@ For this assignment, I used python to automatically print dice rolls with a rand
 
 ### Screenshots
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/dice_roll_in.png?raw=true" alt="dice_roll_in.png"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/dice_roll_in2.png?raw=true" alt="dice_roll_in2.png"/>
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/dice_roll_out.png?raw=true" alt="dice_roll_out.png"/>
 
