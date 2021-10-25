@@ -8,6 +8,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Basic Calculator](#Basic_Calcultor)
 * [Quadratic Calculator](#Quadratic_Caculator)
 * [Strings and Loops](#Strings_and_Loops)
+* [Hangman](#Hangman)
 
 ---
 
@@ -90,3 +91,21 @@ For this assignment, I used for loops to break a sentence into words and then br
 ### Reflection
 
 This was relatively easy once I igured out how strings worked.
+
+## Hangman
+
+### Assignment Description
+
+I had to code the basic game "Hangman". This was the hardest assignment yet, I don't think I would've been able to do it without help. 
+
+### Screenshots
+
+screenshots of the code that checks if you have won yet and what happens when you win
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/hangman_in.png?raw=true" alt="hangman_in.png"/>
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/hangman_out.png?raw=true" alt="hangman_out.png"/>
+
+### Reflection
+
+This assignment was very difficult but once I figured out how to make the letters fill in the blanks it was easy. 
