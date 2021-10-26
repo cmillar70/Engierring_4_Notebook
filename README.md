@@ -109,7 +109,7 @@ screenshots of the code that checks if you have won yet and what happens when yo
 
 ### Reflection
 
-This assignment was very difficult but once I figured out how to make the letters fill in the blanks it was easy. 
+This assignment was very difficult but once I figured out how to make the letters fill in the blanks it was easy. I couldn't fit all my code into the screenshots so I picked a specific part to demonstrate.
 
 ## Skateboard
 
@@ -134,3 +134,7 @@ A wheel with a bearing in it
 The final assembly of all parts
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard4.PNG?raw=true" alt="skateboard4.png"/>
+
+### Reflection
+
+This assignment took me the longest out of every assignment so far and it was hard to stay focused but they explained perfectly how to do every little thing and I still managed to mess up something.
