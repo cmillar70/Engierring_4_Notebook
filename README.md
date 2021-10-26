@@ -9,6 +9,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Quadratic Calculator](#Quadratic_Caculator)
 * [Strings and Loops](#Strings_and_Loops)
 * [Hangman](#Hangman)
+* [Skateboard](#Skateboard)
 
 ---
 
@@ -109,3 +110,27 @@ screenshots of the code that checks if you have won yet and what happens when yo
 ### Reflection
 
 This assignment was very difficult but once I figured out how to make the letters fill in the blanks it was easy. 
+
+## Skateboard
+
+### Assignment Description
+
+This is my first cad assignment for this year. It took me through a full tutorial on how to use many of the common tools in onshape. I built all the parts one by one and then assembled them to form a very bright colored skateboard.
+
+### Screnshots
+
+The deck of the skateboard
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard1.png?raw=true" alt="skateboard1.png"/>
+
+The trucks' baseplate and hanger with the bushing
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard2.png?raw=true" alt="skateboard2.png"/>
+
+A wheel with a bearing in it
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard3.png?raw=true" alt="skateboard3.png"/>
+
+The final assembly of all parts
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard4.png?raw=true" alt="skateboard4.png"/>
