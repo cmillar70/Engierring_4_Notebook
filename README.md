@@ -125,12 +125,12 @@ The deck of the skateboard
 
 The trucks' baseplate and hanger with the bushing
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard2.PNGw=true" alt="skateboard2.png"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard2.PNG?raw=true" alt="skateboard2.png"/>
 
 A wheel with a bearing in it
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard3.PNGw=true" alt="skateboard3.png"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard3.PNG?raw=true" alt="skateboard3.png"/>
 
 The final assembly of all parts
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard4.PNGw=true" alt="skateboard4.png"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard4.PNG?raw=true" alt="skateboard4.png"/>
