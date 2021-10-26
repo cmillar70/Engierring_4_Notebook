@@ -121,7 +121,7 @@ This is my first cad assignment for this year. It took me through a full tutoria
 
 The deck of the skateboard
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard1.png?raw=true" alt="skateboard1.png"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/skateboard1.PNG?raw=true" alt="skateboard1.png"/>
 
 The trucks' baseplate and hanger with the bushing
 
