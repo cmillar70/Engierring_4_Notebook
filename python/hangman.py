@@ -69,23 +69,23 @@ fMissPhrase = "Missed Letters:" #saving these two phrases so I don't have to wri
 gGuessPhrase = "Guess a Letter:"
 while True: #this while loop check if you have won yet after every guess and ends the game if you have 
     print("\n" * 50) #clears the screen at the beginning of every turn
-    if blanks == cWord:
-        print("the word was: ", cWord, "\n")
+    if blanks == cWord: #checks if the original word is the same as the one comprised of all the correct letters
+        print("the word was: ", cWord, "\n") #nice message congratulating you
         print("You win!")
-        sys.exit()
-    else:
-        man(bWrong)
-        print(fMissPhrase, kMisses, "\n")
-        print(blanks, "\n")
-        print(gGuessPhrase)
-        hGuess = input()
-        if hGuess in eLetters:
-            iRight = iRight + 1
+        sys.exit() #exits the program 
+    else: #if you haven't won yet
+        man(bWrong) #prints the art of the man ased on you incorrect guesses
+        print(fMissPhrase, kMisses, "\n") #prints the missed letters phrase and list evey letter you've missed
+        print(blanks, "\n") #line of empty space because it looks nice
+        print(gGuessPhrase) #prints "guess a leter:"
+        hGuess = input() #the letter you guess
+        if hGuess in eLetters: #check if it's correct"
+            iRight = iRight + 1 #if it is add it to your correct guesses and add the letter to the list of correct letters
             jCorrect = jCorrect + hGuess
         
-        else:
+        else: #if it isn't it adds to your incorrect guesses and marks the letter as incorrect
             bWrong = bWrong + 1
             kMisses = kMisses + hGuess
-    for i in range(len(cWord)):
+    for i in range(len(cWord)): #the most difficult part of this assignment by far that figures out which letters need to be replaced by blanks, I needed help for this part
         if cWord[i] in jCorrect:
             blanks = blanks[:i] + cWord[i] + blanks[i+1:]
