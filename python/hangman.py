@@ -2,9 +2,9 @@
 #Written by Christian Millard
 #9.28.2021
 
-import sys
+import sys #so we can exit the program with a command later
 
-def man(bWrong):
+def man(bWrong): #This is a function I made to easily call the small text art of a man 
     if bWrong == 0:
         print("""
 |---┐ 
@@ -57,18 +57,18 @@ def man(bWrong):
             """)
 
 print("Player 1, enter your word:")
-cWord = input()
-print("\n"*50)
-blanks = "_" * len(cWord)
-jCorrect =""
-kMisses =""
-bWrong = 0
-iRight = 0
-eLetters = list(cWord)
-fMissPhrase = "Missed Letters:"
+cWord = input() #this records the first input as the word we will be guessing
+print("\n"*50) #clearing the screen so player 2 can't see it
+blanks = "_" * len(cWord) #making the blanks the length of the word
+jCorrect ="" #the letters you have correctly guessed
+kMisses ="" #the letters you have incorrectly guessed
+bWrong = 0 #number of wrong letters you've guessing
+iRight = 0 #number of correct letters you've guessed
+eLetters = list(cWord) #splitting the word into letters
+fMissPhrase = "Missed Letters:" #saving these two phrases so I don't have to write them out every time
 gGuessPhrase = "Guess a Letter:"
-while True:
-    print("\n" * 50)
+while True: #this while loop check if you have won yet after every guess and ends the game if you have 
+    print("\n" * 50) #clears the screen at the beginning of every turn
     if blanks == cWord:
         print("the word was: ", cWord, "\n")
         print("You win!")
