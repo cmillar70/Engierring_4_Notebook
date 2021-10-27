@@ -27,7 +27,7 @@ For this assignment, I used basic python to print "Hello, World" 10 times.
 
 ### Reflection
 
-This was a nice refresher for basic python.
+This was a nice refresher for basic python. I used a while loop to print it exactly 10 times by starting at 1 and adding 1 for every loop and then stopping it at 11.
 
 ## Dice_Roller
 
@@ -43,7 +43,7 @@ For this assignment, I used python to automatically print dice rolls with a rand
 
 ### Reflection
 
-The "roll again?" was pretty difficult to figure out.
+The "roll again?" was pretty difficult to figure out. All i really needed to do was loop all the code as long as I kept pressing enter. It also stops if you press X instead.
 
 ## Basic_Calculator
 
@@ -59,7 +59,7 @@ For this assignment, I created a calculator that when given two numbers, will sh
 
 ### Reflection
 
-I couldn't out by myself how to properly define the "domath" function.
+I couldn't figure out by myself how to properly define the "domath" function. All you really need is a variable to make a function. Each time the value changes you return a different string.
 
 ## Quadratic_Calculator
 
@@ -75,7 +75,7 @@ For this assignment, I ceated a more advanced calclator that uses the discrimina
 
 ### Reflection
 
-The most difficult part was trying to make it only run the commands if it needed to because otherwise it would have an error.
+The most difficult part was trying to make it only run the commands if it needed to because otherwise it would have an error. I had to import the square root function because python doesn't support it by default. I used the discriminant to calculate the number of real roots and then used the quadatic formula to solve those roots.
 
 ## Strings_and_Loops
 
@@ -91,7 +91,7 @@ For this assignment, I used for loops to break a sentence into words and then br
 
 ### Reflection
 
-This was relatively easy once I igured out how strings worked.
+This was relatively easy once I figured out the split command. I split the phrase into words and then split the words into letters. then I printed the phrase letter by letter with dashes in between each word
 
 ## Hangman
 
@@ -137,4 +137,4 @@ The final assembly of all parts
 
 ### Reflection
 
-This assignment took me the longest out of every assignment so far and it was hard to stay focused but they explained perfectly how to do every little thing and I still managed to mess up something.
+This assignment took me the longest out of every assignment so far and it was hard to stay focused but they explained perfectly how to do every little thing and I still managed to mess up something with the materials because I ended up with lots of incorrect masses.
