@@ -138,3 +138,23 @@ The final assembly of all parts
 ### Reflection
 
 This assignment took me the longest out of every assignment so far and it was hard to stay focused but they explained perfectly how to do every little thing and I still managed to mess up something with the materials because I ended up with lots of incorrect masses.
+
+## Lego Bricks
+
+### Assignment Description
+
+I used variables and configurations to make different kinds of lego bricks. I also assembled them into a duck and even made an assembly manual
+
+### Screenshots
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego1.PNG?raw=true" alt="lego1.png"/>
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego2.PNG?raw=true" alt="lego2.png"/>
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego3.PNG?raw=true" alt="lego3.png"/>
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego4.PNG?raw=true" alt="lego4.png"/>
+
+### Reflection
+
+All of the CAD assignments so far have provided exremely descriptive tutorials on how to use various tools to acomplish exactly what you need to do. I got the right answers by just following the instructions.
