@@ -10,7 +10,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Strings and Loops](#Strings_and_Loops)
 * [Hangman](#Hangman)
 * [Skateboard](#Skateboard)
-
+* [Lego Bricks](#Lego_Bricks)
 ---
 
 ## Hello_World
@@ -139,7 +139,7 @@ The final assembly of all parts
 
 This assignment took me the longest out of every assignment so far and it was hard to stay focused but they explained perfectly how to do every little thing and I still managed to mess up something with the materials because I ended up with lots of incorrect masses.
 
-## Lego Bricks
+## Lego_Bricks
 
 ### Assignment Description
 
