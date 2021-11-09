@@ -153,7 +153,7 @@ I used variables and configurations to make different kinds of lego bricks. I al
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego3.PNG?raw=true" alt="lego3.png"/>
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego4.PNG?raw=true" alt="lego4.png"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/lego4.png?raw=true" alt="lego4.png"/>
 
 ### Reflection
 
