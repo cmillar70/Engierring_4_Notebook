@@ -11,6 +11,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Hangman](#Hangman)
 * [Skateboard](#Skateboard)
 * [Lego Bricks](#Lego_Bricks)
+* [Multi-tool](#Multi-tool)
 ---
 
 ## Hello_World
@@ -143,7 +144,7 @@ This assignment took me the longest out of every assignment so far and it was ha
 
 ### Assignment Description
 
-I used variables and configurations to make different kinds of lego bricks. I also assembled them into a duck and even made an assembly manual
+I used variables and configurations to make different kinds of lego bricks. I also assembled them into a duck and even made an assembly manual.
 
 ### Screenshots
 
@@ -158,3 +159,21 @@ I used variables and configurations to make different kinds of lego bricks. I al
 ### Reflection
 
 All of the CAD assignments so far have provided exremely descriptive tutorials on how to use various tools to acomplish exactly what you need to do. I got the right answers by just following the instructions.
+ 
+## Multi-tool
+
+### Assignment Description
+
+I designed a multi-tool in onshape and cut it nto acrylic with a laser cutter. It has measurements for inches, centimeters, a wrench, and even a few angles
+
+### Screenshots
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/multitool1.png?raw=true" alt="multitool1.png"/>
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/multitool2.png?raw=true" alt="multitool2.png"/>
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/multitool3.png?raw=true" alt="multitool3.png"/>
+
+### Reflection
+
+This series of assignments went by relatively fast and only took me a single class period to complete. The hardest part was dimensioning all the individual holes to line up just right. But even for that, all I really had to do was follow the image as a guide and it worked out easily.
