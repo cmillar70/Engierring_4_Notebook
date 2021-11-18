@@ -188,3 +188,7 @@ I used my Raspberry Pi to made two small led lights alternate blinking.
 ### Screenshots
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/led_blink.png?raw=true" alt="led_blink.png"/>
+
+### Reflection
+
+After shortening all the long commands into variables and importing various libraries it was just a basic refresher for beginner wiring.
