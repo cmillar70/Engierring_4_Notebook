@@ -187,4 +187,4 @@ I used my Raspberry Pi to made two small led lights alternate blinking.
 
 ### Screenshots
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/led_blink.PNG?raw=true" alt="led_blink.PNG"/>
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/led_blink.png?raw=true" alt="led_blink.png"/>
