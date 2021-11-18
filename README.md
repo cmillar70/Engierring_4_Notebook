@@ -12,6 +12,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Skateboard](#Skateboard)
 * [Lego Bricks](#Lego_Bricks)
 * [Multi-tool](#Multi-tool)
+* [Led Blink](#Led_Blink)
 ---
 
 ## Hello_World
@@ -177,3 +178,13 @@ I designed a multi-tool in onshape and cut it nto acrylic with a laser cutter. I
 ### Reflection
 
 This series of assignments went by relatively fast and only took me a single class period to complete. The hardest part was dimensioning all the individual holes to line up just right. But even for that, all I really had to do was follow the image as a guide and it worked out easily.
+
+## LED_Blink
+
+### Assignment Description
+
+I used my Raspberry Pi to made two small led lights alternate blinking.
+
+### Screenshots
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/led_blink.png?raw=true" alt="led_blink.png"/>
