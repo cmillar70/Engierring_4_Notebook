@@ -94,7 +94,7 @@ while True:
     print('Accel X={0}, Accel Y={1}, Accel Z={2}, Mag X={3}, Mag Y={4}, Mag Z={5}'.format(
           accel_x, accel_y, accel_z, mag_x, mag_y, mag_z))
     
-    #shorten these to print them on an OLED screen
+    # Shorten these to print them on an OLED screen
     xt = ("x:" + str(accel_x))
     y = ("y:" + str(accel_y))
     z = ("z:" + str(accel_z))
