@@ -13,6 +13,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Lego Bricks](#Lego_Bricks)
 * [Multi-tool](#Multi-tool)
 * [Led Blink](#Led_Blink)
+* [GPIO pins](#GPIO_Pins)
 ---
 
 ## Hello_World
@@ -192,3 +193,19 @@ I used my Raspberry Pi to made two small led lights alternate blinking.
 ### Reflection
 
 After shortening all the long commands into variables and importing various libraries it was just a basic refresher for beginner wiring.
+
+## GPIO_Pins
+
+### Assignment Description
+
+I wired an accelerometer and printed the values on an oled screen
+
+### Screenshots
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/GPIO_Pins_in.png?raw=true" alt="GPIO_Pins_in.png"/>
+
+### Wiring
+
+### Reflection
+
+This was the most difficult assignment yet and took me 6 classes to complete. I took code from two librbaries and mixed them together. It took me 6 classes to realise that I need to shorten the text and variable into a single string to be able to print it.
