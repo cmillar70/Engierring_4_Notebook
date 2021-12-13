@@ -205,6 +205,8 @@ I wired an accelerometer and printed the values on an oled screen
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/GPIO_Pins_in.png?raw=true" alt="GPIO_Pins_in.png"/>
 
 ### Wiring
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/Wiring/GPIO_Pins_wiring.jpg?raw=true" alt="GPIO_Pins_wiring.jpg"/>
+
 
 ### Reflection
 
