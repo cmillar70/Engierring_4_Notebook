@@ -94,16 +94,33 @@ while True:
     print('Accel X={0}, Accel Y={1}, Accel Z={2}, Mag X={3}, Mag Y={4}, Mag Z={5}'.format(
           accel_x, accel_y, accel_z, mag_x, mag_y, mag_z))
     
+    # making a function for basic math
+    def doMath(a,b,c): #a function that allows us to do division
+        if c == 4: #if c is 4 do division
+            return (a / b)
+    # declaring a and b
+    a = accel_x
+    b = 10
+
+    # shortening the function
+    c = doMath(a,b,4)
+
     # Shorten these to print them on an OLED screen
     xt = ("x:" + str(accel_x))
+    xa = x + 60 + c
+    xb = top + 30
+    ya = xa + 8
+    yb = xb + 8
 
     # Write four lines of text.
-    draw.text((x, top+15), xt, font=font, fill=255)
+    draw.text((x+50, top+5), xt, font=font, fill=255)
 
-    
+    # Draw an ellipse.
+    draw.ellipse((xa, xb, ya, yb), outline=255, fill=0)
+
     # Display image.
     disp.image(image)
     disp.display()
 
     # Wait half a second and repeat.
-    time.sleep(0.5)
+    time.sleep(0.25)
