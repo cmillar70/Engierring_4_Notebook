@@ -112,7 +112,7 @@ while True:
     ya = xa + 8
     yb = xb + 8
 
-    # Write four lines of text.
+    # Write a line of text.
     draw.text((x+50, top+5), xt, font=font, fill=255)
 
     # Draw an ellipse.
