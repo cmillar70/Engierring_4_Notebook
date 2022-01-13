@@ -221,4 +221,4 @@ I used an accelerometer to measure which way the circuit was moving across a sin
 
 ### Picture
 
-<img src="https://github.com/cmillar70/Engineering_4_Notebook/issues/1#issue-1101878129">
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/issues/1#issue-1101878129?raw=true">
