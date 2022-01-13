@@ -14,6 +14,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Multi-tool](#Multi-tool)
 * [Led Blink](#Led_Blink)
 * [GPIO pins](#GPIO_Pins)
+* [Accel_Bubble](#Accel_Bubble)
 ---
 
 ## Hello_World
@@ -211,3 +212,13 @@ I wired an accelerometer and printed the values on an oled screen
 ### Reflection
 
 This was the most difficult assignment yet and took me 6 classes to complete. I took code from two librbaries and mixed them together. It took me 6 classes to realise that I need to shorten the text and variable into a single string to be able to print it.
+
+## Accel_Bubble
+
+### Assignment Description
+
+I used an accelerometer to measure which way the circuit was moving across a single axis and then printed that on an oled screen. I also made it wireless by using a battery and my shutdown button.
+
+### Picture
+
+https://github.com/cmillar70/Engineering_4_Notebook/issues/1#issue-1101878129
