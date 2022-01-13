@@ -222,3 +222,7 @@ I used an accelerometer to measure which way the circuit was moving across a sin
 ### Picture
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/accel_bubble_pic.jpg?raw=true"/>
+
+### Reflection
+
+Getting my shutdown button to work was the most difficult part. But, I just went back to my original shutdown button assignment and found the issue.
