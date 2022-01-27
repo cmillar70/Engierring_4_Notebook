@@ -240,7 +240,7 @@ Extremely complicated wiring for this assignmnet.
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/pics/camera_test_wiring.jpg?raw=true"/>
 
-My python folder after an unsuccessful attempt to take the pictures in another directory.
+My python folder after an unsuccessful attempt to take the pictures in another directory (I had to delete them all manually).
 
 <img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/pics/camera_test_accident.png?raw=true"/>
 
