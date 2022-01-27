@@ -246,4 +246,4 @@ My python folder after an unsuccessful attempt to take the pictures in another d
 
 ### Reflection 
 
-This assignment was one of the easiest yet. There was no challenge with the wiring and the code was just an easy copy and paste from an online tutorial linked in the assignment.
+This assignment was one of the easiest yet. There was no challenge with the wiring and the code was primarily just an easy copy and paste from an online tutorial linked in the assignment.
