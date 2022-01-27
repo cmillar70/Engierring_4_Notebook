@@ -15,6 +15,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Led Blink](#Led_Blink)
 * [GPIO pins](#GPIO_Pins)
 * [Accel_Bubble](#Accel_Bubble)
+* [Camera_test](#Camera_test)
 ---
 
 ## Hello_World
@@ -226,3 +227,23 @@ I used an accelerometer to measure which way the circuit was moving across a sin
 ### Reflection
 
 Getting my shutdown button to work was the most difficult part. But, I just went back to my original shutdown button assignment and found the issue.
+
+## Camera_test
+
+### Assignment Description
+
+This was my first assignment using a camera with the raspberry pi. For the first part I just figured out how to take a picture, but with the second part I took five pictures and used a different filter over each image.
+
+### Pictures
+
+Extremely complicated wiring for this assignmnet.
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/pics/camera_test_wiring.jpg?raw=true"/>
+
+My python folder after an unsuccessful attempt to take the pictures in another directory.
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/pics/camera_test_accident.png?raw=true"/>
+
+### Reflection 
+
+This assignment was one of the easiest yet. There was no challenge with the wiring and the code was just an easy copy and paste from an online tutorial linked in the assignment.
