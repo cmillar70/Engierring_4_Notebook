@@ -13,10 +13,10 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Lego Bricks](#Lego_Bricks)
 * [Multi-tool](#Multi-tool)
 * [Led Blink](#Led_Blink)
-* [Shutdown_Button](Shutdown_Button)
+* [Shutdown Button](Shutdown_Button)
 * [GPIO pins](#GPIO_Pins)
-* [Accel_Bubble](#Accel_Bubble)
-* [Camera_test](#Camera_test)
+* [Accel Bubble](#Accel_Bubble)
+* [Camera test](#Camera_test)
 ---
 
 ## Hello_World
