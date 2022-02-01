@@ -13,6 +13,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [Lego Bricks](#Lego_Bricks)
 * [Multi-tool](#Multi-tool)
 * [Led Blink](#Led_Blink)
+* [Shutdown_Button](Shutdown_Button)
 * [GPIO pins](#GPIO_Pins)
 * [Accel_Bubble](#Accel_Bubble)
 * [Camera_test](#Camera_test)
@@ -195,6 +196,22 @@ I used my Raspberry Pi to made two small led lights alternate blinking.
 ### Reflection
 
 After shortening all the long commands into variables and importing various libraries it was just a basic refresher for beginner wiring.
+
+## Shutdown_Button
+
+### Assignment Description
+
+I set up a button to shutdown my py for any wireless assignments where it won't be plugged in to my pc.
+
+### Screenshot
+
+The part that controls whether it restarts or shuts down based on how long you hold it
+
+<img src="https://github.com/cmillar70/Engineering_4_Notebook/blob/main/screenshots/shutdown_button_in.png?raw=true" alt="shutdown_button_in.png"/>
+
+### Reflection 
+
+This assignment was following an online tutorial with code that someone else made. It is a very helpful tool. There is one part that I messed up on where I accidently made a typo in the rc.local file. But I fixed that and it was my only problem.
 
 ## GPIO_Pins
 
