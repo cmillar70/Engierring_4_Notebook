@@ -17,6 +17,7 @@ This is my repository for keeping track of all of my assignments for Engineering
 * [GPIO pins](#GPIO_Pins)
 * [Accel Bubble](#Accel_Bubble)
 * [Camera test](#Camera_test)
+* [Stop Motion](#Copypasta)
 ---
 
 ## Hello_World
@@ -264,3 +265,18 @@ My python folder after an unsuccessful attempt to take the pictures in another d
 ### Reflection 
 
 This assignment was one of the easiest yet. There was no challenge with the wiring and the code was primarily just an easy copy and paste from an online tutorial linked in the assignment.
+
+## Copypasta
+
+### Assignment Description
+
+I used the camera on my raspberry pi to take a few pictures and then compile them into a video. 
+
+### Evidence 
+
+there is really nothing noteworthy for this assignment, I just followed a tutorial here:
+https://projects.raspberrypi.org/en/projects/push-button-stop-motion
+
+### Reflection 
+
+This assignment was generally very easy, I encountered one problem with the command that named the files. I just needed to declare the variable keeping track of the frame as a string instead of an integer with str().
